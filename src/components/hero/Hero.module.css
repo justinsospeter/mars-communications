@@ -1,0 +1,21 @@
+.Hero {
+  display: flex;
+  height: calc(90vh - 100px);
+  width: 100%;
+  background-color: #f1f1fb;
+  padding: 0 6rem;
+
+}
+.Left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 25%;
+  height: 100%;
+  background-color: #f7f7f7;
+  padding: 20px;
+}
+.Right {
+  width: 75%;
+  height: 100%;
+}
