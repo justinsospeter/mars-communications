@@ -1,0 +1,30 @@
+.ProductCategories {
+  display: flex;
+  width: 100%;
+  height: fit-content;
+  margin-top: 50px;
+  padding: 0 6rem;
+  gap: 30px;
+}
+.Category {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100%;
+}
+.Title {
+    width: 100%;
+    margin-bottom: 40px;
+}
+.Products {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 80vh;
+  gap: 30px;
+}
+.Product {
+  width: 100%;
+  height: 100%;
+  background-color: #f1f1fb;
+}
