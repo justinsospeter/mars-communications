@@ -1,0 +1,7 @@
+.NewsLetter {
+    height: 30vh;
+    width: 100%;
+}
+.Container {
+    display: flex;
+}

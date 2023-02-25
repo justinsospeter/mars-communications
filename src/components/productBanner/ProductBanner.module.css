@@ -1,0 +1,12 @@
+.ProductBanner {
+    position: relative;
+    width: 100%;
+    height: 40vh;
+    padding: 0 50px;
+    margin-top: 50px;
+}
+.Container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}

@@ -11,7 +11,6 @@ function ProductCategories() {
         <div className={styles.Products}>
           <div className={styles.Product}></div>
           <div className={styles.Product}></div>
-          <div className={styles.Product}></div>
         </div>
       </div>
       <div className={styles.Category}>
@@ -21,7 +20,6 @@ function ProductCategories() {
         <div className={styles.Products}>
           <div className={styles.Product}></div>
           <div className={styles.Product}></div>
-          <div className={styles.Product}></div>
         </div>
       </div>
       <div className={styles.Category}>
@@ -29,7 +27,6 @@ function ProductCategories() {
           <h2>Sale Products</h2>
         </div>
         <div className={styles.Products}>
-          <div className={styles.Product}></div>
           <div className={styles.Product}></div>
           <div className={styles.Product}></div>
         </div>
